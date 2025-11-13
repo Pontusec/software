@@ -1,4 +1,3 @@
 # software
 PyCharm/IDEA/VisualStudio安装和破解22222
-111111122222修改为phh同时修改这一行
-=======
+111111122222修改为phh 同时修改这一行我是正确的
