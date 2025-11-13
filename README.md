@@ -1,2 +1,2 @@
 # software
-PyCharm/IDEA/VisualStudio安装和破解
+PyCharm/IDEA/VisualStudio安装和破解1111111
